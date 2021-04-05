@@ -17,7 +17,7 @@ public class isPrime {
                 i++;
             }
             if (check)
-                System.out.println(num + "is a prime");
+                System.out.println(num + " is a prime");
             else
                 System.out.println(num + " is NOT a prime");
         }
